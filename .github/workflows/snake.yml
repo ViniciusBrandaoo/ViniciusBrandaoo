@@ -23,5 +23,6 @@ jobs:
         with:
           target_branch: snake-output
           build_dir: dist
+          commit_message: "Generate snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
