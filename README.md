@@ -20,8 +20,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/ViniciusBrandaoo/ViniciusBrandaoo/snake-output/snake.svg" alt="Snake animation" />
-
 ---
 
 ## Connect with me
