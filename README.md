@@ -1,6 +1,6 @@
 <!-- ============ ViniciusBrandaoo — profile README ============ -->
 <a href="https://viniciusbrandaoo.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,100:4f46e5&height=260&section=header&text=Vinicius+Brandao&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Dev+em+Formacao+%E2%80%A2+Python+%26+Java+%E2%80%A2+Dados+%2F+BI+%E2%80%A2+Sao+Paulo&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:4f46e5&height=260&section=header&text=Vinicius%20Brandao&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Dev%20em%20Formacao%20%E2%80%A2%20Python%20%26%20Java%20%E2%80%A2%20Dados%20%2F%20BI%20%E2%80%A2%20Sao%20Paulo&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 </a>
 
 <div align="center">
