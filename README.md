@@ -1,13 +1,11 @@
 <!-- ============ ViniciusBrandaoo — profile README ============ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:4f46e5&height=200&section=header&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn" width="100%"/>
-
 <div align="center">
 <a href="https://viniciusbrandaoo.github.io/">
 
-![header](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=58&duration=1&pause=99999&color=FFFFFF&background=0F0C2900&center=true&vCenter=true&width=860&height=100&lines=Vinicius+Brandao)
+![name](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=58&duration=1&pause=99999&color=FFFFFF&background=1a1a4e&center=true&vCenter=true&width=900&height=120&lines=Vinicius+Brandao)
 
-![subheader](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1&pause=99999&color=818CF8&background=0F0C2900&center=true&vCenter=true&width=860&height=36&lines=Dev+em+Formacao+%E2%80%A2+Python+%26+Java+%E2%80%A2+Dados+%2F+BI+%E2%80%A2+Sao+Paulo)
+![sub](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1&pause=99999&color=818CF8&background=0F0C2900&center=true&vCenter=true&width=900&height=36&lines=Dev+em+Formacao+%E2%80%A2+Python+%26+Java+%E2%80%A2+Dados+%2F+BI+%E2%80%A2+Sao+Paulo)
 
 </a>
 </div>
