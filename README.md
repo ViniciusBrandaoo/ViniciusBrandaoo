@@ -1,42 +1,47 @@
-<!-- ============ ViniciusBrandaoo — profile README ============ -->
+<!-- ============================================================
+     Vinicius Soares Brandão — GitHub Profile README
+     Paleta: preto profundo + dourado (#c9a84c / #a8864a / #7a6535)
+============================================================ -->
 
 <div align="center">
-<a href="https://viniciusbrandaoo.github.io/">
 
-![name](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=58&duration=1&pause=99999&color=FFFFFF&background=1a1a4e&center=true&vCenter=true&width=900&height=120&lines=Vinicius+Brandao)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:2a1f00&height=200&section=header&text=Vinicius%20Soares%20Brand%C3%A3o&fontColor=c9a84c&fontSize=42&fontAlignY=55&desc=Data%20Analytics%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Python&descAlignY=75&descSize=16&descFontColor=7a6535)
 
-![sub](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1&pause=99999&color=818CF8&background=0F0C2900&center=true&vCenter=true&width=900&height=36&lines=Dev+em+Formacao+%E2%80%A2+Python+%26+Java+%E2%80%A2+Dados+%2F+BI+%E2%80%A2+Sao+Paulo)
-
-</a>
 </div>
 
 <div align="center">
 
-[![Site](https://img.shields.io/badge/%F0%9F%8C%90_viniciusbrandaoo.github.io-1a1a2e?style=for-the-badge)](https://viniciusbrandaoo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciussbrd@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=ViniciusBrandaoo&color=4f46e5&style=for-the-badge&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/ViniciusBrandaoo?style=for-the-badge&color=6366f1&labelColor=0f0c29&logo=github)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=818CF8&center=true&vCenter=true&width=720&height=52&lines=Dev+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80+%E2%80%94+Python+%26+Java+no+sangue;Do+Administrativo+%E2%86%92+Analista+de+Dados+%2F+BI;Futuro+estudante+de+Engenharia+de+Software+%F0%9F%8E%93;S%C3%A3o+Paulo+%F0%9F%8F%99%EF%B8%8F+%E2%80%94+transformando+dados+em+decis%C3%B5es" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=800&color=C9A84C&center=true&vCenter=true&width=720&height=48&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%93%88;Do+Administrativo+%E2%86%92+Data+Analyst+%2F+BI;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel+Avan%C3%A7ado;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%8F%99%EF%B8%8F" alt="Typing SVG"/>
 </a>
+
+</div>
+
+<div align="center">
+
+[![Portfólio](https://img.shields.io/badge/%F0%9F%8C%90_Portf%C3%B3lio-000000?style=for-the-badge&logoColor=c9a84c&labelColor=1a1200&color=2a1f00)](https://viniciusbrandaoo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=1a1200&color=2a1f00)](https://www.linkedin.com/in/vinicius-soares-brand%C3%A3o-9995533b5)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=c9a84c&labelColor=1a1200&color=2a1f00)](mailto:viniciussbrd@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=c9a84c&labelColor=1a1200&color=2a1f00)](https://wa.me/5511988226487)
+![Views](https://komarev.com/ghpvc/?username=ViniciusBrandaoo&color=c9a84c&style=for-the-badge&label=VIEWS&labelColor=1a1200)
 
 </div>
 
 ---
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ViniciusBrandaoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0f0c29&title_color=818cf8&icon_color=4f46e5&text_color=c9d1d9" alt="stats"/>
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ViniciusBrandaoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0d0900&title_color=c9a84c&icon_color=a8864a&text_color=7a6535&ring_color=c9a84c" alt="GitHub Stats"/>
 
-### `> whoami`
+### `◆ whoami`
 
 ```python
 vinicius = {
-    "base":      "São Paulo, Brasil 🏙️",
-    "foco":      ["Análise de Dados", "BI", "Python", "Java"],
-    "stack":     ["Python 🐍", "Java ☕", "Power BI 📊", "Excel"],
-    "transição": "Administrativo → Analista de Dados / BI",
-    "próximos":  "Engenharia de Software 🎓",
+    "base"     : "São Paulo, Brasil 🏙️",
+    "foco"     : ["Data Analytics", "BI", "Python"],
+    "stack"    : ["Python 🐍", "SQL", "Power BI 📊",
+                  "Pandas", "Excel Avançado"],
+    "atual"    : "Setor Administrativo",
+    "objetivo" : "Data Analyst / Analista de BI",
+    "próximo"  : "Engenharia de Software 🎓",
     "filosofia": "Late nights, cold negroni, clean code. 🍹",
 }
 ```
@@ -45,63 +50,65 @@ vinicius = {
 
 ---
 
-### 🧰 Stack
+### `◆ Stack Técnico`
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=python,java,git,github,vscode&perline=10)
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://skillicons.dev/icons?i=python,postgres,git,github,vscode&perline=5)
 
 </div>
 
 ---
 
-### 🚀 Minha Jornada
+### `◆ Jornada`
 
 ```
-🏢  Setor Administrativo          ← onde comecei
-        ↓
-🐍  Aprendendo Python & Java      ← onde estou agora
-        ↓
-📊  Analista de Dados / BI        ← próximo destino
-        ↓
-🎓  Engenharia de Software        ← objetivo final
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🏢  Setor Administrativo      ← ponto de partida  │
+│           │                                         │
+│           ▼                                         │
+│  🐍  Python · SQL · Power BI   ← agora             │
+│           │                                         │
+│           ▼                                         │
+│  📊  Data Analyst / BI         ← próximo destino   │
+│           │                                         │
+│           ▼                                         │
+│  🎓  Engenharia de Software    ← objetivo final    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 🎯 Objetivos para 2026
+### `◆ Objetivos 2026`
 
-- [x] Começar a aprender Python 🐍
-- [x] Aprender Java ☕
-- [ ] Concluir curso de Análise de Dados
-- [ ] Ingressar na faculdade de Engenharia de Software
-- [ ] Migrar para área de Dados / BI
-- [ ] Construir meu primeiro dashboard em Power BI
-- [ ] Publicar projetos no GitHub
+```python
+metas_2026 = {
+    "✅ Dominar Python para dados"          : True,
+    "✅ Aprender SQL intermediário–avançado" : True,
+    "⬜ Publicar projetos reais no GitHub"  : False,
+    "⬜ Primeiro dashboard em Power BI"     : False,
+    "⬜ Migrar para área de Dados / BI"     : False,
+    "⬜ Concluir curso de Análise de Dados" : False,
+    "⬜ Ingressar em Engenharia de Software": False,
+}
+```
 
 ---
 
-### 📊 Métricas
+### `◆ Métricas`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBrandaoo&layout=compact&hide_border=true&langs_count=6&theme=react&bg_color=0f0c29&title_color=818cf8&text_color=c9d1d9"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=ViniciusBrandaoo&hide_border=true&background=0f0c29&ring=818cf8&fire=4f46e5&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBrandaoo&layout=compact&hide_border=true&langs_count=6&theme=react&bg_color=0d0900&title_color=c9a84c&text_color=7a6535"/>
+<img height="175" src="https://streak-stats.demolab.com/?user=ViniciusBrandaoo&hide_border=true&background=0d0900&ring=c9a84c&fire=a8864a&currStreakLabel=c9a84c&sideLabels=7a6535&dates=4a3c20"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusBrandaoo&bg_color=0f0c29&color=818cf8&line=4f46e5&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20de%20commits"/>
+</div>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ViniciusBrandaoo&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusBrandaoo&bg_color=0d0900&color=c9a84c&line=a8864a&point=c9a84c&area=true&area_color=2a1f00&hide_border=true&custom_title=Atividade%20de%20Commits"/>
 
 </div>
 
@@ -113,6 +120,6 @@ vinicius = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,60:1a1a4e,100:0f0c29&height=120&section=footer&text=Do%20dado%20bruto%20%C3%A0%20decis%C3%A3o.%20%F0%9F%93%88&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a1f00,50:1a1200,100:000000&height=130&section=footer&text=Do%20dado%20bruto%20%C3%A0%20decis%C3%A3o.&fontColor=c9a84c&fontSize=22&fontAlignY=65)
 
 </div>
