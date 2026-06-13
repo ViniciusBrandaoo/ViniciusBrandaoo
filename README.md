@@ -1,14 +1,15 @@
-<!-- ============ viniciusbrandao — profile README ============ -->
-<a href="https://github.com/SEU_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,100:4f46e5&height=260&section=header&text=Vinicius%20Brand%C3%A3o&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Dev%20em%20Forma%C3%A7%C3%A3o%20%E2%80%A2%20Python%20%26%20Java%20%E2%80%A2%20Dados%20%2F%20BI%20%E2%80%A2%20S%C3%A3o%20Paulo%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ============ ViniciusBrandaoo — profile README ============ -->
+<a href="https://viniciusbrandaoo.github.io/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,100:4f46e5&height=260&section=header&text=Vinicius+Brandao&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Dev+em+Formacao+%E2%80%A2+Python+%26+Java+%E2%80%A2+Dados+%2F+BI+%E2%80%A2+Sao+Paulo&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 </a>
 
 <div align="center">
 
+[![Site](https://img.shields.io/badge/%F0%9F%8C%90_viniciusbrandaoo.github.io-1a1a2e?style=for-the-badge)](https://viniciusbrandaoo.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-![Profile views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=4f46e5&style=for-the-badge&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/SEU_USERNAME?style=for-the-badge&color=6366f1&labelColor=0f0c29&logo=github)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciussbrd@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=ViniciusBrandaoo&color=4f46e5&style=for-the-badge&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/ViniciusBrandaoo?style=for-the-badge&color=6366f1&labelColor=0f0c29&logo=github)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=818CF8&center=true&vCenter=true&width=720&height=52&lines=Dev+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80+%E2%80%94+Python+%26+Java+no+sangue;Do+Administrativo+%E2%86%92+Analista+de+Dados+%2F+BI;Futuro+estudante+de+Engenharia+de+Software+%F0%9F%8E%93;S%C3%A3o+Paulo+%F0%9F%8F%99%EF%B8%8F+%E2%80%94+transformando+dados+em+decis%C3%B5es" alt="Typing SVG"/>
@@ -18,7 +19,7 @@
 
 ---
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0f0c29&title_color=818cf8&icon_color=4f46e5&text_color=c9d1d9" alt="stats"/>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ViniciusBrandaoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0f0c29&title_color=818cf8&icon_color=4f46e5&text_color=c9d1d9" alt="stats"/>
 
 ### `> whoami`
 
@@ -88,17 +89,17 @@ vinicius = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&langs_count=6&theme=react&bg_color=0f0c29&title_color=818cf8&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&hide_border=true&background=0f0c29&ring=818cf8&fire=4f46e5&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBrandaoo&layout=compact&hide_border=true&langs_count=6&theme=react&bg_color=0f0c29&title_color=818cf8&text_color=c9d1d9"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=ViniciusBrandaoo&hide_border=true&background=0f0c29&ring=818cf8&fire=4f46e5&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0f0c29&color=818cf8&line=4f46e5&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20de%20commits"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusBrandaoo&bg_color=0f0c29&color=818cf8&line=4f46e5&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20de%20commits"/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ViniciusBrandaoo&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
 <div align="center">
-  <img width="98%" alt="snake" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/snake-dark.svg"/>
+  <img width="98%" alt="snake" src="https://raw.githubusercontent.com/ViniciusBrandaoo/ViniciusBrandaoo/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
