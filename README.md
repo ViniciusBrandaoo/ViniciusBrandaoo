@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:2a1f00&height=200&section=header&text=Vinicius%20Soares%20Brand%C3%A3o&fontColor=c9a84c&fontSize=42&fontAlignY=55&desc=Data%20Analytics%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Python&descAlignY=75&descSize=16&descFontColor=7a6535)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:2a1f00&height=280&section=header&text=Vinicius%20Soares%20Brand%C3%A3o&fontColor=c9a84c&fontSize=52&fontAlignY=50&fontAlign=50&desc=Data%20Analytics%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Python&descAlignY=68&descSize=18&descFontColor=7a6535&descAlign=50)
 
 </div>
 
